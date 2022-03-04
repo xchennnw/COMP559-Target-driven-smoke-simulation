@@ -1,5 +1,5 @@
-# COMP559-Target-driven-smoke-simulation
-COMP559 project
+# Target-driven-smoke-simulation
+
 
 To run:
 1. Run the FluidApp in IDE
